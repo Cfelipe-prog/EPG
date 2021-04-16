@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CL | MEGA *FHD">
+    <display-name lang="es">CL | MEGA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210416010000 -0400" stop="20210416054500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210416054500 -0400" stop="20210416063000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Meganoticias amanece</title>
+  </programme>
+  <programme start="20210416063000 -0400" stop="20210416080000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Meganoticias conecta</title>
+  </programme>
+  <programme start="20210416080000 -0400" stop="20210416130000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20210416130000 -0400" stop="20210416152500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210416152500 -0400" stop="20210416153000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210416153000 -0400" stop="20210416155000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210416155000 -0400" stop="20210416163000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210416163000 -0400" stop="20210416173000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Zuleyha</title>
+  </programme>
+  <programme start="20210416173000 -0400" stop="20210416182000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20210416182000 -0400" stop="20210416191000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">La hora de jugar</title>
+  </programme>
+  <programme start="20210416191000 -0400" stop="20210416200500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210416200500 -0400" stop="20210416210000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210416210000 -0400" stop="20210416222500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210416222500 -0400" stop="20210416223000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210416223000 -0400" stop="20210417001500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Got Talent Chile</title>
+  </programme>
+</tv>
