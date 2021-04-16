@@ -56,8 +56,12 @@
     <display-name lang="es">CL | TVN *FHD | op2</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="TNT *HD">
+    <display-name lang="es">TNT *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210416010000 -0400" stop="20210416054500 -0400" channel="CL | MEGA *FHD">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210416054500 -0400" stop="20210416063000 -0400" channel="CL | MEGA *FHD">
     <title lang="es">Meganoticias amanece</title>
@@ -104,23 +108,11 @@
   <programme start="20210416223000 -0400" stop="20210417001500 -0400" channel="CL | MEGA *FHD">
     <title lang="es">Got Talent Chile</title>
   </programme>
-  <programme start="20210417001500 -0400" stop="20210417013000 -0400" channel="CL | MEGA *FHD">
+  <programme start="20210417001500 -0400" stop="20210417020000 -0400" channel="CL | MEGA *FHD">
     <title lang="es">¿Quién Quiere Ser Millonario</title>
   </programme>
-  <programme start="20210417013000 -0400" stop="20210417020000 -0400" channel="CL | MEGA *FHD">
-    <title lang="es">Mega</title>
-  </programme>
-  <programme start="20210417020000 -0400" stop="20210417054500 -0400" channel="CL | MEGA *FHD">
-    <title lang="es">Cierre de estación</title>
-  </programme>
-  <programme start="20210417054500 -0400" stop="20210417061500 -0400" channel="CL | MEGA *FHD">
-    <title lang="es">Mega</title>
-  </programme>
-  <programme start="20210417061500 -0400" stop="20210417064500 -0400" channel="CL | MEGA *FHD">
-    <title lang="es">Mega</title>
-  </programme>
-  <programme start="20210417064500 -0400" stop="20210417070000 -0400" channel="CL | MEGA *FHD">
-    <title lang="es">Mega</title>
+  <programme start="20210417020000 -0400" stop="20210417070000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210417070000 -0400" stop="20210417080000 -0400" channel="CL | MEGA *FHD">
     <title lang="es">A orillas del río</title>
@@ -155,8 +147,65 @@
   <programme start="20210417221500 -0400" stop="20210418001500 -0400" channel="CL | MEGA *FHD">
     <title lang="es">Mi Barrio</title>
   </programme>
+  <programme start="20210418221500 -0400" stop="20210419001500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Mi Barrio</title>
+  </programme>
+  <programme start="20210419001500 -0400" stop="20210419011500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20210419011500 -0400" stop="20210419070000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210419080000 -0400" stop="20210419090000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Crónicas de un Bicitante</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419160000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20210419160000 -0400" stop="20210419173000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Lo mejor de Verdades ocultas</title>
+  </programme>
+  <programme start="20210419173000 -0400" stop="20210419183000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Comer y sanar</title>
+  </programme>
+  <programme start="20210419183000 -0400" stop="20210419203000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Got Talent Chile</title>
+  </programme>
+  <programme start="20210419203000 -0400" stop="20210419222500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210419222500 -0400" stop="20210419223000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210420000000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Modus Operandi</title>
+  </programme>
+  <programme start="20210420000000 -0400" stop="20210420010000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210420130000 -0400" stop="20210420152500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210420155000 -0400" stop="20210420163000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210420173000 -0400" stop="20210420182000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20210420191000 -0400" stop="20210420200500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210420223000 -0400" stop="20210420233000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210420233000 -0400" stop="20210421000000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210421000000 -0400" stop="20210421010000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Intikam</title>
+  </programme>
   <programme start="20210416010000 -0400" stop="20210416054500 -0400" channel="CL | MEGA *HD | Op2">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210416054500 -0400" stop="20210416063000 -0400" channel="CL | MEGA *HD | Op2">
     <title lang="es">Meganoticias amanece</title>
@@ -203,23 +252,11 @@
   <programme start="20210416223000 -0400" stop="20210417001500 -0400" channel="CL | MEGA *HD | Op2">
     <title lang="es">Got Talent Chile</title>
   </programme>
-  <programme start="20210417001500 -0400" stop="20210417013000 -0400" channel="CL | MEGA *HD | Op2">
+  <programme start="20210417001500 -0400" stop="20210417020000 -0400" channel="CL | MEGA *HD | Op2">
     <title lang="es">¿Quién Quiere Ser Millonario</title>
   </programme>
-  <programme start="20210417013000 -0400" stop="20210417020000 -0400" channel="CL | MEGA *HD | Op2">
-    <title lang="es">Mega</title>
-  </programme>
-  <programme start="20210417020000 -0400" stop="20210417054500 -0400" channel="CL | MEGA *HD | Op2">
-    <title lang="es">Cierre de estación</title>
-  </programme>
-  <programme start="20210417054500 -0400" stop="20210417061500 -0400" channel="CL | MEGA *HD | Op2">
-    <title lang="es">Mega</title>
-  </programme>
-  <programme start="20210417061500 -0400" stop="20210417064500 -0400" channel="CL | MEGA *HD | Op2">
-    <title lang="es">Mega</title>
-  </programme>
-  <programme start="20210417064500 -0400" stop="20210417070000 -0400" channel="CL | MEGA *HD | Op2">
-    <title lang="es">Mega</title>
+  <programme start="20210417020000 -0400" stop="20210417070000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210417070000 -0400" stop="20210417080000 -0400" channel="CL | MEGA *HD | Op2">
     <title lang="es">A orillas del río</title>
@@ -254,6 +291,63 @@
   <programme start="20210417221500 -0400" stop="20210418001500 -0400" channel="CL | MEGA *HD | Op2">
     <title lang="es">Mi Barrio</title>
   </programme>
+  <programme start="20210418221500 -0400" stop="20210419001500 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Mi Barrio</title>
+  </programme>
+  <programme start="20210419001500 -0400" stop="20210419011500 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20210419011500 -0400" stop="20210419070000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210419080000 -0400" stop="20210419090000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Crónicas de un Bicitante</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419160000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20210419160000 -0400" stop="20210419173000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Lo mejor de Verdades ocultas</title>
+  </programme>
+  <programme start="20210419173000 -0400" stop="20210419183000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Comer y sanar</title>
+  </programme>
+  <programme start="20210419183000 -0400" stop="20210419203000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Got Talent Chile</title>
+  </programme>
+  <programme start="20210419203000 -0400" stop="20210419222500 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210419222500 -0400" stop="20210419223000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210420000000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Modus Operandi</title>
+  </programme>
+  <programme start="20210420000000 -0400" stop="20210420010000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210420130000 -0400" stop="20210420152500 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210420155000 -0400" stop="20210420163000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210420173000 -0400" stop="20210420182000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20210420191000 -0400" stop="20210420200500 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210420223000 -0400" stop="20210420233000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210420233000 -0400" stop="20210421000000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210421000000 -0400" stop="20210421010000 -0400" channel="CL | MEGA *HD | Op2">
+    <title lang="es">Intikam</title>
+  </programme>
   <programme start="20210416001500 -0400" stop="20210416011500 -0400" channel="CL | CANAL 13 *FHD">
     <title lang="es">T13 Noche</title>
   </programme>
@@ -261,7 +355,7 @@
     <title lang="es">Bones</title>
   </programme>
   <programme start="20210416021500 -0400" stop="20210416060000 -0400" channel="CL | CANAL 13 *FHD">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210416060000 -0400" stop="20210416063000 -0400" channel="CL | CANAL 13 *FHD">
     <title lang="es">3x3</title>
@@ -309,13 +403,13 @@
     <title lang="es">Grandes eventos Mujeres al ataque</title>
   </programme>
   <programme start="20210417010000 -0400" stop="20210417013000 -0400" channel="CL | CANAL 13 *FHD">
-    <title lang="es">9-1-1: Lone Star</title>
+    <title lang="es">9-1-1 Lone Star</title>
   </programme>
   <programme start="20210417013000 -0400" stop="20210417023000 -0400" channel="CL | CANAL 13 *FHD">
     <title lang="es">9-1-1</title>
   </programme>
   <programme start="20210417023000 -0400" stop="20210417070000 -0400" channel="CL | CANAL 13 *FHD">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210417070000 -0400" stop="20210417084500 -0400" channel="CL | CANAL 13 *FHD">
     <title lang="es">Plato Unico</title>
@@ -353,6 +447,90 @@
   <programme start="20210417233000 -0400" stop="20210418004000 -0400" channel="CL | CANAL 13 *FHD">
     <title lang="es">Crónicas de la Patagonia</title>
   </programme>
+  <programme start="20210418233000 -0400" stop="20210419004000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Crónicas de la Patagonia</title>
+  </programme>
+  <programme start="20210419004000 -0400" stop="20210419014500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210419014500 -0400" stop="20210419073000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210419073000 -0400" stop="20210419080000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210419080000 -0400" stop="20210419090000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20210419090000 -0400" stop="20210419110000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210419110000 -0400" stop="20210419130000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Mesa central</title>
+  </programme>
+  <programme start="20210419130000 -0400" stop="20210419150000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419171500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Domingo de películas</title>
+  </programme>
+  <programme start="20210419171500 -0400" stop="20210419193000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Contra viento y marea</title>
+  </programme>
+  <programme start="20210419193000 -0400" stop="20210419210000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210419210000 -0400" stop="20210419223000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210419223500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210419223500 -0400" stop="20210420010000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Contra viento y marea</title>
+  </programme>
+  <programme start="20210420223500 -0400" stop="20210421010000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Contra viento y marea</title>
+  </programme>
+  <programme start="20210421010000 -0400" stop="20210421021500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Lo mejor - De tú a tú</title>
+  </programme>
+  <programme start="20210421021500 -0400" stop="20210421031500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Bones</title>
+  </programme>
+  <programme start="20210421031500 -0400" stop="20210421060000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210421080000 -0400" stop="20210421130000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20210421130000 -0400" stop="20210421144000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210421144000 -0400" stop="20210421144500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210421144500 -0400" stop="20210421155500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Machos</title>
+  </programme>
+  <programme start="20210421155500 -0400" stop="20210421173500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20210421173500 -0400" stop="20210421200000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210421200000 -0400" stop="20210421210000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">El Sultan</title>
+  </programme>
+  <programme start="20210421210000 -0400" stop="20210421224000 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210421224000 -0400" stop="20210421224500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210421224500 -0400" stop="20210422001500 -0400" channel="CL | CANAL 13 *FHD">
+    <title lang="es">De Tú a Tú</title>
+  </programme>
   <programme start="20210416001500 -0400" stop="20210416011500 -0400" channel="CL | CANAL 13 *FHD | op2">
     <title lang="es">T13 Noche</title>
   </programme>
@@ -360,7 +538,7 @@
     <title lang="es">Bones</title>
   </programme>
   <programme start="20210416021500 -0400" stop="20210416060000 -0400" channel="CL | CANAL 13 *FHD | op2">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210416060000 -0400" stop="20210416063000 -0400" channel="CL | CANAL 13 *FHD | op2">
     <title lang="es">3x3</title>
@@ -408,13 +586,13 @@
     <title lang="es">Grandes eventos Mujeres al ataque</title>
   </programme>
   <programme start="20210417010000 -0400" stop="20210417013000 -0400" channel="CL | CANAL 13 *FHD | op2">
-    <title lang="es">9-1-1: Lone Star</title>
+    <title lang="es">9-1-1 Lone Star</title>
   </programme>
   <programme start="20210417013000 -0400" stop="20210417023000 -0400" channel="CL | CANAL 13 *FHD | op2">
     <title lang="es">9-1-1</title>
   </programme>
   <programme start="20210417023000 -0400" stop="20210417070000 -0400" channel="CL | CANAL 13 *FHD | op2">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210417070000 -0400" stop="20210417084500 -0400" channel="CL | CANAL 13 *FHD | op2">
     <title lang="es">Plato Unico</title>
@@ -451,6 +629,90 @@
   </programme>
   <programme start="20210417233000 -0400" stop="20210418004000 -0400" channel="CL | CANAL 13 *FHD | op2">
     <title lang="es">Crónicas de la Patagonia</title>
+  </programme>
+  <programme start="20210418233000 -0400" stop="20210419004000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Crónicas de la Patagonia</title>
+  </programme>
+  <programme start="20210419004000 -0400" stop="20210419014500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210419014500 -0400" stop="20210419073000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210419073000 -0400" stop="20210419080000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210419080000 -0400" stop="20210419090000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20210419090000 -0400" stop="20210419110000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210419110000 -0400" stop="20210419130000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Mesa central</title>
+  </programme>
+  <programme start="20210419130000 -0400" stop="20210419150000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419171500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Domingo de películas</title>
+  </programme>
+  <programme start="20210419171500 -0400" stop="20210419193000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Contra viento y marea</title>
+  </programme>
+  <programme start="20210419193000 -0400" stop="20210419210000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210419210000 -0400" stop="20210419223000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210419223500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210419223500 -0400" stop="20210420010000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Contra viento y marea</title>
+  </programme>
+  <programme start="20210420223500 -0400" stop="20210421010000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Contra viento y marea</title>
+  </programme>
+  <programme start="20210421010000 -0400" stop="20210421021500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Lo mejor - De tú a tú</title>
+  </programme>
+  <programme start="20210421021500 -0400" stop="20210421031500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Bones</title>
+  </programme>
+  <programme start="20210421031500 -0400" stop="20210421060000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210421080000 -0400" stop="20210421130000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20210421130000 -0400" stop="20210421144000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210421144000 -0400" stop="20210421144500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210421144500 -0400" stop="20210421155500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Machos</title>
+  </programme>
+  <programme start="20210421155500 -0400" stop="20210421173500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20210421173500 -0400" stop="20210421200000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210421200000 -0400" stop="20210421210000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">El Sultan</title>
+  </programme>
+  <programme start="20210421210000 -0400" stop="20210421224000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210421224000 -0400" stop="20210421224500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210421224500 -0400" stop="20210422001500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">De Tú a Tú</title>
   </programme>
   <programme start="20210416010000 -0400" stop="20210416013000 -0400" channel="CL | CNN Chile *FHD">
     <title lang="es">Aquí se Debate</title>
@@ -629,6 +891,135 @@
   <programme start="20210417233000 -0400" stop="20210418000000 -0400" channel="CL | CNN Chile *FHD">
     <title lang="es">Futuro 360</title>
   </programme>
+  <programme start="20210418000000 -0400" stop="20210418003000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210418003000 -0400" stop="20210418013000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418013000 -0400" stop="20210418020000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210418020000 -0400" stop="20210418023000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210418023000 -0400" stop="20210418030000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418030000 -0400" stop="20210418033000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210418033000 -0400" stop="20210418040000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418040000 -0400" stop="20210418043000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210418050000 -0400" stop="20210418054500 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210418054500 -0400" stop="20210418063000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210418063000 -0400" stop="20210418070000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418070000 -0400" stop="20210418073000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210418073000 -0400" stop="20210418080000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418080000 -0400" stop="20210418090000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210418130000 -0400" stop="20210418150000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210418150000 -0400" stop="20210418160000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210418170000 -0400" stop="20210418173000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Rompeparadigmas</title>
+  </programme>
+  <programme start="20210418183000 -0400" stop="20210418190000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210418193000 -0400" stop="20210418203000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Influyentes</title>
+  </programme>
+  <programme start="20210418203000 -0400" stop="20210418223000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias central CNN - CHV</title>
+  </programme>
+  <programme start="20210418223000 -0400" stop="20210419000000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Tolerancia 0</title>
+  </programme>
+  <programme start="20210419003000 -0400" stop="20210419010000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210419010000 -0400" stop="20210419020000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Influyentes</title>
+  </programme>
+  <programme start="20210419023000 -0400" stop="20210419040000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Tolerancia 0</title>
+  </programme>
+  <programme start="20210419040000 -0400" stop="20210419043000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210419050000 -0400" stop="20210419053000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210419060000 -0400" stop="20210419063000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210419100000 -0400" stop="20210419103000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210419130000 -0400" stop="20210419153000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210419153000 -0400" stop="20210419163000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Influyentes</title>
+  </programme>
+  <programme start="20210419200000 -0400" stop="20210419203000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210419233000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210419233000 -0400" stop="20210420000000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210420010000 -0400" stop="20210420013000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210420013000 -0400" stop="20210420023000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210420060000 -0400" stop="20210420063000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210420100000 -0400" stop="20210420103000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210420130000 -0400" stop="20210420140000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210420140000 -0400" stop="20210420153000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210420153000 -0400" stop="20210420163000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210420170000 -0400" stop="20210420183000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20210420183000 -0400" stop="20210420190000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Conexión Global</title>
+  </programme>
+  <programme start="20210420190000 -0400" stop="20210420200000 -0400" channel="CL | CNN Chile *FHD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
   <programme start="20210416010000 -0400" stop="20210416013000 -0400" channel="CNN Chile *HD">
     <title lang="es">Aquí se Debate</title>
   </programme>
@@ -805,6 +1196,135 @@
   </programme>
   <programme start="20210417233000 -0400" stop="20210418000000 -0400" channel="CNN Chile *HD">
     <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210418000000 -0400" stop="20210418003000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210418003000 -0400" stop="20210418013000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418013000 -0400" stop="20210418020000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210418020000 -0400" stop="20210418023000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210418023000 -0400" stop="20210418030000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418030000 -0400" stop="20210418033000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210418033000 -0400" stop="20210418040000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418040000 -0400" stop="20210418043000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210418050000 -0400" stop="20210418054500 -0400" channel="CNN Chile *HD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210418054500 -0400" stop="20210418063000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210418063000 -0400" stop="20210418070000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418070000 -0400" stop="20210418073000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210418073000 -0400" stop="20210418080000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210418080000 -0400" stop="20210418090000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210418130000 -0400" stop="20210418150000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210418150000 -0400" stop="20210418160000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210418170000 -0400" stop="20210418173000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Rompeparadigmas</title>
+  </programme>
+  <programme start="20210418183000 -0400" stop="20210418190000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210418193000 -0400" stop="20210418203000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Influyentes</title>
+  </programme>
+  <programme start="20210418203000 -0400" stop="20210418223000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias central CNN - CHV</title>
+  </programme>
+  <programme start="20210418223000 -0400" stop="20210419000000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Tolerancia 0</title>
+  </programme>
+  <programme start="20210419003000 -0400" stop="20210419010000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Futuro 360</title>
+  </programme>
+  <programme start="20210419010000 -0400" stop="20210419020000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Influyentes</title>
+  </programme>
+  <programme start="20210419023000 -0400" stop="20210419040000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Tolerancia 0</title>
+  </programme>
+  <programme start="20210419040000 -0400" stop="20210419043000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210419050000 -0400" stop="20210419053000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias Express</title>
+  </programme>
+  <programme start="20210419060000 -0400" stop="20210419063000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Desafio Tierra</title>
+  </programme>
+  <programme start="20210419100000 -0400" stop="20210419103000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210419130000 -0400" stop="20210419153000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210419153000 -0400" stop="20210419163000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Influyentes</title>
+  </programme>
+  <programme start="20210419200000 -0400" stop="20210419203000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210419233000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210419233000 -0400" stop="20210420000000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210420010000 -0400" stop="20210420013000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Agenda Económica</title>
+  </programme>
+  <programme start="20210420013000 -0400" stop="20210420023000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210420060000 -0400" stop="20210420063000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Empresas 2050</title>
+  </programme>
+  <programme start="20210420100000 -0400" stop="20210420103000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Entrevista CNN</title>
+  </programme>
+  <programme start="20210420130000 -0400" stop="20210420140000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210420140000 -0400" stop="20210420153000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Noticias tarde CNN - CHV</title>
+  </programme>
+  <programme start="20210420153000 -0400" stop="20210420163000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Aquí se Debate</title>
+  </programme>
+  <programme start="20210420170000 -0400" stop="20210420183000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Hoy es Noticia</title>
+  </programme>
+  <programme start="20210420183000 -0400" stop="20210420190000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Conexión Global</title>
+  </programme>
+  <programme start="20210420190000 -0400" stop="20210420200000 -0400" channel="CNN Chile *HD">
+    <title lang="es">Aquí se Debate</title>
   </programme>
   <programme start="20210416010000 -0400" stop="20210416013000 -0400" channel="CL | 24 HORAS *FHD">
     <title lang="es">Medianoche</title>
@@ -986,6 +1506,132 @@
   <programme start="20210417234500 -0400" stop="20210418003000 -0400" channel="CL | 24 HORAS *FHD">
     <title lang="es">24 Horas</title>
   </programme>
+  <programme start="20210418234500 -0400" stop="20210419003000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419023000 -0400" stop="20210419030000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419030000 -0400" stop="20210419033000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419033000 -0400" stop="20210419040000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419040000 -0400" stop="20210419043000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419043000 -0400" stop="20210419050000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419050000 -0400" stop="20210419053000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419053000 -0400" stop="20210419060000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419060000 -0400" stop="20210419063000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419063000 -0400" stop="20210419070000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419070000 -0400" stop="20210419073000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419073000 -0400" stop="20210419080000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419080000 -0400" stop="20210419083000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419083000 -0400" stop="20210419090000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Reporte minero</title>
+  </programme>
+  <programme start="20210419090000 -0400" stop="20210419093000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419093000 -0400" stop="20210419130000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 horas a la hora / TVN y 24 h</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419153000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Mirada Económica</title>
+  </programme>
+  <programme start="20210419153000 -0400" stop="20210419160000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Cual es tu huella</title>
+  </programme>
+  <programme start="20210419170000 -0400" stop="20210419173000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">RAYO K</title>
+  </programme>
+  <programme start="20210419173000 -0400" stop="20210419183000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419183000 -0400" stop="20210419193000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Sin Miedo 24 Horas Deportes</title>
+  </programme>
+  <programme start="20210419193000 -0400" stop="20210419200000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 horas a la hora / TVN y 24 h</title>
+  </programme>
+  <programme start="20210419200000 -0400" stop="20210419201500 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Sonidos 24</title>
+  </programme>
+  <programme start="20210419201500 -0400" stop="20210419204500 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Sin Miedo 24 Horas Deportes</title>
+  </programme>
+  <programme start="20210419204500 -0400" stop="20210419223000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210420001500 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Estado nacional / 24h y TVN</title>
+  </programme>
+  <programme start="20210420223000 -0400" stop="20210421001500 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Estado nacional / 24h y TVN</title>
+  </programme>
+  <programme start="20210421001500 -0400" stop="20210421003000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+  <programme start="20210421003000 -0400" stop="20210421010000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210421010000 -0400" stop="20210421013000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210421053000 -0400" stop="20210421060000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210421080000 -0400" stop="20210421083000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Cual es tu huella</title>
+  </programme>
+  <programme start="20210421103000 -0400" stop="20210421104500 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Sonidos 24</title>
+  </programme>
+  <programme start="20210421123000 -0400" stop="20210421130000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Más motor</title>
+  </programme>
+  <programme start="20210421130000 -0400" stop="20210421153000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210421153000 -0400" stop="20210421154500 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Cuadros</title>
+  </programme>
+  <programme start="20210421163000 -0400" stop="20210421170000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Especialista Responde</title>
+  </programme>
+  <programme start="20210421224500 -0400" stop="20210421230000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Frontera global</title>
+  </programme>
+  <programme start="20210421230000 -0400" stop="20210422000000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Vía Pública</title>
+  </programme>
+  <programme start="20210422000000 -0400" stop="20210422010000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210422080000 -0400" stop="20210422083000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Especialista Responde</title>
+  </programme>
+  <programme start="20210422163000 -0400" stop="20210422170000 -0400" channel="CL | 24 HORAS *FHD">
+    <title lang="es">Cual es tu huella</title>
+  </programme>
   <programme start="20210416010000 -0400" stop="20210416013000 -0400" channel="CL | 24 HORAS *HD">
     <title lang="es">Medianoche</title>
   </programme>
@@ -1166,11 +1812,137 @@
   <programme start="20210417234500 -0400" stop="20210418003000 -0400" channel="CL | 24 HORAS *HD">
     <title lang="es">24 Horas</title>
   </programme>
+  <programme start="20210418234500 -0400" stop="20210419003000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419023000 -0400" stop="20210419030000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419030000 -0400" stop="20210419033000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419033000 -0400" stop="20210419040000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419040000 -0400" stop="20210419043000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419043000 -0400" stop="20210419050000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419050000 -0400" stop="20210419053000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419053000 -0400" stop="20210419060000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419060000 -0400" stop="20210419063000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419063000 -0400" stop="20210419070000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419070000 -0400" stop="20210419073000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419073000 -0400" stop="20210419080000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419080000 -0400" stop="20210419083000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419083000 -0400" stop="20210419090000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Reporte minero</title>
+  </programme>
+  <programme start="20210419090000 -0400" stop="20210419093000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419093000 -0400" stop="20210419130000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 horas a la hora / TVN y 24 h</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419153000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Mirada Económica</title>
+  </programme>
+  <programme start="20210419153000 -0400" stop="20210419160000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Cual es tu huella</title>
+  </programme>
+  <programme start="20210419170000 -0400" stop="20210419173000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">RAYO K</title>
+  </programme>
+  <programme start="20210419173000 -0400" stop="20210419183000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419183000 -0400" stop="20210419193000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Sin Miedo 24 Horas Deportes</title>
+  </programme>
+  <programme start="20210419193000 -0400" stop="20210419200000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 horas a la hora / TVN y 24 h</title>
+  </programme>
+  <programme start="20210419200000 -0400" stop="20210419201500 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Sonidos 24</title>
+  </programme>
+  <programme start="20210419201500 -0400" stop="20210419204500 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Sin Miedo 24 Horas Deportes</title>
+  </programme>
+  <programme start="20210419204500 -0400" stop="20210419223000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210420001500 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Estado nacional / 24h y TVN</title>
+  </programme>
+  <programme start="20210420223000 -0400" stop="20210421001500 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Estado nacional / 24h y TVN</title>
+  </programme>
+  <programme start="20210421001500 -0400" stop="20210421003000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+  <programme start="20210421003000 -0400" stop="20210421010000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210421010000 -0400" stop="20210421013000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210421053000 -0400" stop="20210421060000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210421080000 -0400" stop="20210421083000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Cual es tu huella</title>
+  </programme>
+  <programme start="20210421103000 -0400" stop="20210421104500 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Sonidos 24</title>
+  </programme>
+  <programme start="20210421123000 -0400" stop="20210421130000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Más motor</title>
+  </programme>
+  <programme start="20210421130000 -0400" stop="20210421153000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210421153000 -0400" stop="20210421154500 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Cuadros</title>
+  </programme>
+  <programme start="20210421163000 -0400" stop="20210421170000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Especialista Responde</title>
+  </programme>
+  <programme start="20210421224500 -0400" stop="20210421230000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Frontera global</title>
+  </programme>
+  <programme start="20210421230000 -0400" stop="20210422000000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Vía Pública</title>
+  </programme>
+  <programme start="20210422000000 -0400" stop="20210422010000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210422080000 -0400" stop="20210422083000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Especialista Responde</title>
+  </programme>
+  <programme start="20210422163000 -0400" stop="20210422170000 -0400" channel="CL | 24 HORAS *HD">
+    <title lang="es">Cual es tu huella</title>
+  </programme>
   <programme start="20210416010000 -0400" stop="20210416014500 -0400" channel="CL | CHV *FHD">
     <title lang="es">La noche es nuestra</title>
   </programme>
   <programme start="20210416014500 -0400" stop="20210416063000 -0400" channel="CL | CHV *FHD">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210416063000 -0400" stop="20210416080000 -0400" channel="CL | CHV *FHD">
     <title lang="es">CHV Noticias</title>
@@ -1200,7 +1972,7 @@
     <title lang="es">La noche es nuestra</title>
   </programme>
   <programme start="20210417014500 -0400" stop="20210417070000 -0400" channel="CL | CHV *FHD">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210417070000 -0400" stop="20210417080000 -0400" channel="CL | CHV *FHD">
     <title lang="es">Programación Pagada</title>
@@ -1229,11 +2001,77 @@
   <programme start="20210417220000 -0400" stop="20210418010000 -0400" channel="CL | CHV *FHD">
     <title lang="es">La divina comida</title>
   </programme>
+  <programme start="20210418220000 -0400" stop="20210419010000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210419010000 -0400" stop="20210419014500 -0400" channel="CL | CHV *FHD">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210419014500 -0400" stop="20210419074000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210419074000 -0400" stop="20210419084000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20210419084000 -0400" stop="20210419103000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Parcelas TV</title>
+  </programme>
+  <programme start="20210419103000 -0400" stop="20210419132000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Cobresal vs. Santiago Wanderers</title>
+  </programme>
+  <programme start="20210419132000 -0400" stop="20210419150000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419183000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Sabingo</title>
+  </programme>
+  <programme start="20210419183000 -0400" stop="20210419193000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Trocamundos</title>
+  </programme>
+  <programme start="20210419193000 -0400" stop="20210419203000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Nuevo Sabingo</title>
+  </programme>
+  <programme start="20210419203000 -0400" stop="20210419223000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210420010000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210420223000 -0400" stop="20210421010000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210421010000 -0400" stop="20210421013000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">La noche es nuestra</title>
+  </programme>
+  <programme start="20210421013000 -0400" stop="20210421063000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210421080000 -0400" stop="20210421130000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210421130000 -0400" stop="20210421153000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210421153000 -0400" stop="20210421170500 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Contigo en directo</title>
+  </programme>
+  <programme start="20210421170500 -0400" stop="20210421203000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210421223000 -0400" stop="20210422000000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210422000000 -0400" stop="20210422010000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">Amor de familia</title>
+  </programme>
+  <programme start="20210422010000 -0400" stop="20210422013000 -0400" channel="CL | CHV *FHD">
+    <title lang="es">La noche es nuestra</title>
+  </programme>
   <programme start="20210416010000 -0400" stop="20210416014500 -0400" channel="CL | CHV *FHD | op2">
     <title lang="es">La noche es nuestra</title>
   </programme>
   <programme start="20210416014500 -0400" stop="20210416063000 -0400" channel="CL | CHV *FHD | op2">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210416063000 -0400" stop="20210416080000 -0400" channel="CL | CHV *FHD | op2">
     <title lang="es">CHV Noticias</title>
@@ -1263,7 +2101,7 @@
     <title lang="es">La noche es nuestra</title>
   </programme>
   <programme start="20210417014500 -0400" stop="20210417070000 -0400" channel="CL | CHV *FHD | op2">
-    <title lang="es">Cierre de estación</title>
+    <title lang="es">Fuera del aire</title>
   </programme>
   <programme start="20210417070000 -0400" stop="20210417080000 -0400" channel="CL | CHV *FHD | op2">
     <title lang="es">Programación Pagada</title>
@@ -1291,6 +2129,72 @@
   </programme>
   <programme start="20210417220000 -0400" stop="20210418010000 -0400" channel="CL | CHV *FHD | op2">
     <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210418220000 -0400" stop="20210419010000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210419010000 -0400" stop="20210419014500 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210419014500 -0400" stop="20210419074000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210419074000 -0400" stop="20210419084000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20210419084000 -0400" stop="20210419103000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Parcelas TV</title>
+  </programme>
+  <programme start="20210419103000 -0400" stop="20210419132000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Cobresal vs. Santiago Wanderers</title>
+  </programme>
+  <programme start="20210419132000 -0400" stop="20210419150000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419183000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Sabingo</title>
+  </programme>
+  <programme start="20210419183000 -0400" stop="20210419193000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Trocamundos</title>
+  </programme>
+  <programme start="20210419193000 -0400" stop="20210419203000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Nuevo Sabingo</title>
+  </programme>
+  <programme start="20210419203000 -0400" stop="20210419223000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210420010000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210420223000 -0400" stop="20210421010000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210421010000 -0400" stop="20210421013000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">La noche es nuestra</title>
+  </programme>
+  <programme start="20210421013000 -0400" stop="20210421063000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210421080000 -0400" stop="20210421130000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210421130000 -0400" stop="20210421153000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210421153000 -0400" stop="20210421170500 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Contigo en directo</title>
+  </programme>
+  <programme start="20210421170500 -0400" stop="20210421203000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210421223000 -0400" stop="20210422000000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210422000000 -0400" stop="20210422010000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">Amor de familia</title>
+  </programme>
+  <programme start="20210422010000 -0400" stop="20210422013000 -0400" channel="CL | CHV *FHD | op2">
+    <title lang="es">La noche es nuestra</title>
   </programme>
   <programme start="20210416003000 -0400" stop="20210416020000 -0400" channel="CL | LA RED *FHD">
     <title lang="es">Así somos</title>
@@ -1355,23 +2259,164 @@
   <programme start="20210418081500 -0400" stop="20210418130000 -0400" channel="CL | LA RED *FHD">
     <title lang="es">Antena 3D</title>
   </programme>
-  <programme start="20210418130000 -0400" stop="20210418160000 -0400" channel="CL | LA RED *FHD">
-    <title lang="es">A confirmar</title>
+  <programme start="20210418130000 -0400" stop="20210418140000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210418140000 -0400" stop="20210418143000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210418143000 -0400" stop="20210418150000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210418150000 -0400" stop="20210418153000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210418153000 -0400" stop="20210418160000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
   </programme>
   <programme start="20210418160000 -0400" stop="20210418163000 -0400" channel="CL | LA RED *FHD">
     <title lang="es">Chile Sustentable</title>
   </programme>
-  <programme start="20210418163000 -0400" stop="20210418200000 -0400" channel="CL | LA RED *FHD">
-    <title lang="es">A confirmar</title>
+  <programme start="20210418163000 -0400" stop="20210418170000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
   </programme>
-  <programme start="20210418200000 -0400" stop="20210418210000 -0400" channel="CL | LA RED *FHD">
-    <title lang="es">Scorpion</title>
+  <programme start="20210418170000 -0400" stop="20210418171500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
   </programme>
-  <programme start="20210418210000 -0400" stop="20210418230000 -0400" channel="CL | LA RED *FHD">
+  <programme start="20210418171500 -0400" stop="20210418181500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20210418181500 -0400" stop="20210418190000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210418190000 -0400" stop="20210418200000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Numb3rs</title>
+  </programme>
+  <programme start="20210418200000 -0400" stop="20210418220000 -0400" channel="CL | LA RED *FHD">
     <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
-  <programme start="20210418230000 -0400" stop="20210419003000 -0400" channel="CL | LA RED *FHD">
+  <programme start="20210418220000 -0400" stop="20210418230000 -0400" channel="CL | LA RED *FHD">
     <title lang="es">Políticamente Incorrecto</title>
+  </programme>
+  <programme start="20210418230000 -0400" stop="20210419000000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Las gansas</title>
+  </programme>
+  <programme start="20210419000000 -0400" stop="20210419010000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Lo Mejor de 'Así Somos</title>
+  </programme>
+  <programme start="20210419010000 -0400" stop="20210419020000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Aguila roja</title>
+  </programme>
+  <programme start="20210419020000 -0400" stop="20210419024500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Limitless</title>
+  </programme>
+  <programme start="20210419024500 -0400" stop="20210419033000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">R.I.S. París</title>
+  </programme>
+  <programme start="20210419033000 -0400" stop="20210419040000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Chile Sustentable</title>
+  </programme>
+  <programme start="20210419040000 -0400" stop="20210419060000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419163000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Bella y bestia</title>
+  </programme>
+  <programme start="20210419163000 -0400" stop="20210419171500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210419171500 -0400" stop="20210419181500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20210419181500 -0400" stop="20210419190000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210419190000 -0400" stop="20210419200000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Numb3rs</title>
+  </programme>
+  <programme start="20210419200000 -0400" stop="20210419220000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Café Cargado</title>
+  </programme>
+  <programme start="20210419220000 -0400" stop="20210419223000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210419230000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210419230000 -0400" stop="20210419233000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210419233000 -0400" stop="20210420000000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210420000000 -0400" stop="20210420003000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">The Gringo Show en La Red</title>
+  </programme>
+  <programme start="20210420003000 -0400" stop="20210420011500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210420011500 -0400" stop="20210420021500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Aguila roja</title>
+  </programme>
+  <programme start="20210420021500 -0400" stop="20210420031500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Sex and the City</title>
+  </programme>
+  <programme start="20210420031500 -0400" stop="20210420063000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210420070000 -0400" stop="20210420073000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Popcorn TV</title>
+  </programme>
+  <programme start="20210420130000 -0400" stop="20210420133000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Vivir Consciente</title>
+  </programme>
+  <programme start="20210420133000 -0400" stop="20210420143000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210420143000 -0400" stop="20210420153000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Hola millones</title>
+  </programme>
+  <programme start="20210420193000 -0400" stop="20210420211500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210420211500 -0400" stop="20210420223000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210420223000 -0400" stop="20210421003000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210421223000 -0400" stop="20210422003000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210422050000 -0400" stop="20210422063000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210422063000 -0400" stop="20210422070000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Juez Franco</title>
+  </programme>
+  <programme start="20210422070000 -0400" stop="20210422073000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Popcorn TV</title>
+  </programme>
+  <programme start="20210422073000 -0400" stop="20210422110000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210422110000 -0400" stop="20210422130000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210422130000 -0400" stop="20210422133000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Vivir Consciente</title>
+  </programme>
+  <programme start="20210422133000 -0400" stop="20210422143000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210422143000 -0400" stop="20210422153000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">Hola millones</title>
+  </programme>
+  <programme start="20210422153000 -0400" stop="20210422193000 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La tarde de Hola Chile</title>
+  </programme>
+  <programme start="20210422193000 -0400" stop="20210422211500 -0400" channel="CL | LA RED *FHD">
+    <title lang="es">La Rosa de Guadalupe</title>
   </programme>
   <programme start="20210416003000 -0400" stop="20210416020000 -0400" channel="CL | LA RED *HD">
     <title lang="es">Así somos</title>
@@ -1436,23 +2481,164 @@
   <programme start="20210418081500 -0400" stop="20210418130000 -0400" channel="CL | LA RED *HD">
     <title lang="es">Antena 3D</title>
   </programme>
-  <programme start="20210418130000 -0400" stop="20210418160000 -0400" channel="CL | LA RED *HD">
-    <title lang="es">A confirmar</title>
+  <programme start="20210418130000 -0400" stop="20210418140000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210418140000 -0400" stop="20210418143000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210418143000 -0400" stop="20210418150000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210418150000 -0400" stop="20210418153000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210418153000 -0400" stop="20210418160000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
   </programme>
   <programme start="20210418160000 -0400" stop="20210418163000 -0400" channel="CL | LA RED *HD">
     <title lang="es">Chile Sustentable</title>
   </programme>
-  <programme start="20210418163000 -0400" stop="20210418200000 -0400" channel="CL | LA RED *HD">
-    <title lang="es">A confirmar</title>
+  <programme start="20210418163000 -0400" stop="20210418170000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
   </programme>
-  <programme start="20210418200000 -0400" stop="20210418210000 -0400" channel="CL | LA RED *HD">
-    <title lang="es">Scorpion</title>
+  <programme start="20210418170000 -0400" stop="20210418171500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
   </programme>
-  <programme start="20210418210000 -0400" stop="20210418230000 -0400" channel="CL | LA RED *HD">
+  <programme start="20210418171500 -0400" stop="20210418181500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20210418181500 -0400" stop="20210418190000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210418190000 -0400" stop="20210418200000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Numb3rs</title>
+  </programme>
+  <programme start="20210418200000 -0400" stop="20210418220000 -0400" channel="CL | LA RED *HD">
     <title lang="es">Grandes Mentiras Verdaderas</title>
   </programme>
-  <programme start="20210418230000 -0400" stop="20210419003000 -0400" channel="CL | LA RED *HD">
+  <programme start="20210418220000 -0400" stop="20210418230000 -0400" channel="CL | LA RED *HD">
     <title lang="es">Políticamente Incorrecto</title>
+  </programme>
+  <programme start="20210418230000 -0400" stop="20210419000000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Las gansas</title>
+  </programme>
+  <programme start="20210419000000 -0400" stop="20210419010000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Lo Mejor de 'Así Somos</title>
+  </programme>
+  <programme start="20210419010000 -0400" stop="20210419020000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Aguila roja</title>
+  </programme>
+  <programme start="20210419020000 -0400" stop="20210419024500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Limitless</title>
+  </programme>
+  <programme start="20210419024500 -0400" stop="20210419033000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">R.I.S. París</title>
+  </programme>
+  <programme start="20210419033000 -0400" stop="20210419040000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Chile Sustentable</title>
+  </programme>
+  <programme start="20210419040000 -0400" stop="20210419060000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210419150000 -0400" stop="20210419163000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Bella y bestia</title>
+  </programme>
+  <programme start="20210419163000 -0400" stop="20210419171500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210419171500 -0400" stop="20210419181500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20210419181500 -0400" stop="20210419190000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210419190000 -0400" stop="20210419200000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Numb3rs</title>
+  </programme>
+  <programme start="20210419200000 -0400" stop="20210419220000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Café Cargado</title>
+  </programme>
+  <programme start="20210419220000 -0400" stop="20210419223000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210419223000 -0400" stop="20210419230000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210419230000 -0400" stop="20210419233000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210419233000 -0400" stop="20210420000000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20210420000000 -0400" stop="20210420003000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">The Gringo Show en La Red</title>
+  </programme>
+  <programme start="20210420003000 -0400" stop="20210420011500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210420011500 -0400" stop="20210420021500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Aguila roja</title>
+  </programme>
+  <programme start="20210420021500 -0400" stop="20210420031500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Sex and the City</title>
+  </programme>
+  <programme start="20210420031500 -0400" stop="20210420063000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210420070000 -0400" stop="20210420073000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Popcorn TV</title>
+  </programme>
+  <programme start="20210420130000 -0400" stop="20210420133000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Vivir Consciente</title>
+  </programme>
+  <programme start="20210420133000 -0400" stop="20210420143000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210420143000 -0400" stop="20210420153000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Hola millones</title>
+  </programme>
+  <programme start="20210420193000 -0400" stop="20210420211500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210420211500 -0400" stop="20210420223000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210420223000 -0400" stop="20210421003000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210421223000 -0400" stop="20210422003000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210422050000 -0400" stop="20210422063000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210422063000 -0400" stop="20210422070000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Juez Franco</title>
+  </programme>
+  <programme start="20210422070000 -0400" stop="20210422073000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Popcorn TV</title>
+  </programme>
+  <programme start="20210422073000 -0400" stop="20210422110000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210422110000 -0400" stop="20210422130000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210422130000 -0400" stop="20210422133000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Vivir Consciente</title>
+  </programme>
+  <programme start="20210422133000 -0400" stop="20210422143000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210422143000 -0400" stop="20210422153000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">Hola millones</title>
+  </programme>
+  <programme start="20210422153000 -0400" stop="20210422193000 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La tarde de Hola Chile</title>
+  </programme>
+  <programme start="20210422193000 -0400" stop="20210422211500 -0400" channel="CL | LA RED *HD">
+    <title lang="es">La Rosa de Guadalupe</title>
   </programme>
   <programme start="20210416011500 -0400" stop="20210416014500 -0400" channel="CL | TVN *FHD">
     <title lang="es">Medianoche</title>
@@ -1460,11 +2646,8 @@
   <programme start="20210416014500 -0400" stop="20210416020000 -0400" channel="CL | TVN *FHD">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20210416020000 -0400" stop="20210416060000 -0400" channel="CL | TVN *FHD">
+  <programme start="20210416020000 -0400" stop="20210416063000 -0400" channel="CL | TVN *FHD">
     <title lang="es">Cierre de transmisión</title>
-  </programme>
-  <programme start="20210416060000 -0400" stop="20210416063000 -0400" channel="CL | TVN *FHD">
-    <title lang="es">24 horas</title>
   </programme>
   <programme start="20210416063000 -0400" stop="20210416080000 -0400" channel="CL | TVN *FHD">
     <title lang="es">24 AM</title>
@@ -1487,10 +2670,10 @@
   <programme start="20210416191000 -0400" stop="20210416195000 -0400" channel="CL | TVN *FHD">
     <title lang="es">Noticias 24</title>
   </programme>
-  <programme start="20210416195000 -0400" stop="20210416204500 -0400" channel="CL | TVN *FHD">
+  <programme start="20210416195000 -0400" stop="20210416210000 -0400" channel="CL | TVN *FHD">
     <title lang="es">Moisés y los 10 mandamientos</title>
   </programme>
-  <programme start="20210416204500 -0400" stop="20210416223500 -0400" channel="CL | TVN *FHD">
+  <programme start="20210416210000 -0400" stop="20210416223500 -0400" channel="CL | TVN *FHD">
     <title lang="es">24 Horas</title>
   </programme>
   <programme start="20210416223500 -0400" stop="20210416224000 -0400" channel="CL | TVN *FHD">
@@ -1499,53 +2682,155 @@
   <programme start="20210416224000 -0400" stop="20210417010000 -0400" channel="CL | TVN *FHD">
     <title lang="es">La decisión más difícil</title>
   </programme>
-  <programme start="20210417224000 -0400" stop="20210418010000 -0400" channel="CL | TVN *FHD">
-    <title lang="es">La decisión más difícil</title>
-  </programme>
-  <programme start="20210418010000 -0400" stop="20210418020000 -0400" channel="CL | TVN *FHD">
+  <programme start="20210417010000 -0400" stop="20210417020000 -0400" channel="CL | TVN *FHD">
     <title lang="es">El Día Menos Pensado</title>
   </programme>
-  <programme start="20210418020000 -0400" stop="20210418021500 -0400" channel="CL | TVN *FHD">
+  <programme start="20210417020000 -0400" stop="20210417021500 -0400" channel="CL | TVN *FHD">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20210418021500 -0400" stop="20210418064500 -0400" channel="CL | TVN *FHD">
+  <programme start="20210417021500 -0400" stop="20210417064500 -0400" channel="CL | TVN *FHD">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20210418064500 -0400" stop="20210418070000 -0400" channel="CL | TVN *FHD">
+  <programme start="20210417064500 -0400" stop="20210417070000 -0400" channel="CL | TVN *FHD">
     <title lang="es">Puertas Abiertas</title>
   </programme>
-  <programme start="20210418070000 -0400" stop="20210418080000 -0400" channel="CL | TVN *FHD">
+  <programme start="20210417070000 -0400" stop="20210417080000 -0400" channel="CL | TVN *FHD">
     <title lang="es">Puertas Abiertas</title>
   </programme>
-  <programme start="20210418080000 -0400" stop="20210418090000 -0400" channel="CL | TVN *FHD">
+  <programme start="20210417080000 -0400" stop="20210417090000 -0400" channel="CL | TVN *FHD">
     <title lang="es">Hermanos a la obra</title>
   </programme>
-  <programme start="20210418090000 -0400" stop="20210418130000 -0400" channel="CL | TVN *FHD">
+  <programme start="20210417090000 -0400" stop="20210417130000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210417130000 -0400" stop="20210417150000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210417150000 -0400" stop="20210417173000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Lo mejor de Fuerza de mujer</title>
+  </programme>
+  <programme start="20210417173000 -0400" stop="20210417200000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Lo mejor de Romané</title>
+  </programme>
+  <programme start="20210417200000 -0400" stop="20210417203000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210417203000 -0400" stop="20210417204500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210417204500 -0400" stop="20210417223000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210417223000 -0400" stop="20210417223500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210417223500 -0400" stop="20210418000000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Nuestro Cine</title>
+  </programme>
+  <programme start="20210418000000 -0400" stop="20210418030000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">El Día Menos Pensado</title>
+  </programme>
+  <programme start="20210418030000 -0400" stop="20210418031500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210418031500 -0400" stop="20210418070000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210418070000 -0400" stop="20210418073000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210418073000 -0400" stop="20210418083000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Cumbres del Mundo</title>
+  </programme>
+  <programme start="20210418083000 -0400" stop="20210418093000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Cual es tu huella</title>
+  </programme>
+  <programme start="20210418093000 -0400" stop="20210418130000 -0400" channel="CL | TVN *FHD">
     <title lang="es">24 Horas</title>
   </programme>
   <programme start="20210418130000 -0400" stop="20210418150000 -0400" channel="CL | TVN *FHD">
-    <title lang="es">24 Tarde</title>
+    <title lang="es">24 horas tarde</title>
   </programme>
-  <programme start="20210418150000 -0400" stop="20210418173000 -0400" channel="CL | TVN *FHD">
-    <title lang="es">Lo mejor de Fuerza de mujer</title>
+  <programme start="20210418150000 -0400" stop="20210418164500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Zoom Grandes momentos del deporte</title>
   </programme>
-  <programme start="20210418173000 -0400" stop="20210418200000 -0400" channel="CL | TVN *FHD">
-    <title lang="es">Lo mejor de Romané</title>
+  <programme start="20210418164500 -0400" stop="20210418173000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Chile conectado 2020</title>
   </programme>
-  <programme start="20210418200000 -0400" stop="20210418203000 -0400" channel="CL | TVN *FHD">
-    <title lang="es">TV Nacional Chile</title>
+  <programme start="20210418173000 -0400" stop="20210418183000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">La Odisea</title>
   </programme>
-  <programme start="20210418203000 -0400" stop="20210418204500 -0400" channel="CL | TVN *FHD">
-    <title lang="es">TV Nacional Chile</title>
+  <programme start="20210418183000 -0400" stop="20210418193000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Sueños Latinoamericanos</title>
   </programme>
-  <programme start="20210418204500 -0400" stop="20210418223000 -0400" channel="CL | TVN *FHD">
+  <programme start="20210418193000 -0400" stop="20210418200000 -0400" channel="CL | TVN *FHD">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210418223000 -0400" stop="20210418223500 -0400" channel="CL | TVN *FHD">
+  <programme start="20210418223500 -0400" stop="20210419000000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Estado Nacional</title>
+  </programme>
+  <programme start="20210419000000 -0400" stop="20210419020000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Mea Culpa</title>
+  </programme>
+  <programme start="20210419020000 -0400" stop="20210419021500 -0400" channel="CL | TVN *FHD">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20210418223500 -0400" stop="20210419000000 -0400" channel="CL | TVN *FHD">
-    <title lang="es">Nuestro Cine</title>
+  <programme start="20210419021500 -0400" stop="20210419060000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210419060000 -0400" stop="20210419063000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210419130000 -0400" stop="20210419152500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210419195000 -0400" stop="20210419204500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20210419204500 -0400" stop="20210419223500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419224000 -0400" stop="20210420000000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20210420000000 -0400" stop="20210420010000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Dr. House</title>
+  </programme>
+  <programme start="20210420010000 -0400" stop="20210420013000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210420013000 -0400" stop="20210420014500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210420014500 -0400" stop="20210420060000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210420060000 -0400" stop="20210420063000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210420063000 -0400" stop="20210420080000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20210420080000 -0400" stop="20210420130000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210420130000 -0400" stop="20210420152500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210420152500 -0400" stop="20210420163000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Circo de las Montini</title>
+  </programme>
+  <programme start="20210420163000 -0400" stop="20210420174000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210420174000 -0400" stop="20210420191000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210420191000 -0400" stop="20210420195000 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210420195000 -0400" stop="20210420204500 -0400" channel="CL | TVN *FHD">
+    <title lang="es">Moisés y los 10 mandamientos</title>
   </programme>
   <programme start="20210416011500 -0400" stop="20210416014500 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">Medianoche</title>
@@ -1553,11 +2838,8 @@
   <programme start="20210416014500 -0400" stop="20210416020000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20210416020000 -0400" stop="20210416060000 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210416020000 -0400" stop="20210416063000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">Cierre de transmisión</title>
-  </programme>
-  <programme start="20210416060000 -0400" stop="20210416063000 -0400" channel="CL | TVN *FHD | op2">
-    <title lang="es">24 horas</title>
   </programme>
   <programme start="20210416063000 -0400" stop="20210416080000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">24 AM</title>
@@ -1580,10 +2862,10 @@
   <programme start="20210416191000 -0400" stop="20210416195000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">Noticias 24</title>
   </programme>
-  <programme start="20210416195000 -0400" stop="20210416204500 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210416195000 -0400" stop="20210416210000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">Moisés y los 10 mandamientos</title>
   </programme>
-  <programme start="20210416204500 -0400" stop="20210416223500 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210416210000 -0400" stop="20210416223500 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">24 Horas</title>
   </programme>
   <programme start="20210416223500 -0400" stop="20210416224000 -0400" channel="CL | TVN *FHD | op2">
@@ -1592,52 +2874,367 @@
   <programme start="20210416224000 -0400" stop="20210417010000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">La decisión más difícil</title>
   </programme>
-  <programme start="20210417224000 -0400" stop="20210418010000 -0400" channel="CL | TVN *FHD | op2">
-    <title lang="es">La decisión más difícil</title>
-  </programme>
-  <programme start="20210418010000 -0400" stop="20210418020000 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210417010000 -0400" stop="20210417020000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">El Día Menos Pensado</title>
   </programme>
-  <programme start="20210418020000 -0400" stop="20210418021500 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210417020000 -0400" stop="20210417021500 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20210418021500 -0400" stop="20210418064500 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210417021500 -0400" stop="20210417064500 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20210418064500 -0400" stop="20210418070000 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210417064500 -0400" stop="20210417070000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">Puertas Abiertas</title>
   </programme>
-  <programme start="20210418070000 -0400" stop="20210418080000 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210417070000 -0400" stop="20210417080000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">Puertas Abiertas</title>
   </programme>
-  <programme start="20210418080000 -0400" stop="20210418090000 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210417080000 -0400" stop="20210417090000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">Hermanos a la obra</title>
   </programme>
-  <programme start="20210418090000 -0400" stop="20210418130000 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210417090000 -0400" stop="20210417130000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210417130000 -0400" stop="20210417150000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210417150000 -0400" stop="20210417173000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Lo mejor de Fuerza de mujer</title>
+  </programme>
+  <programme start="20210417173000 -0400" stop="20210417200000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Lo mejor de Romané</title>
+  </programme>
+  <programme start="20210417200000 -0400" stop="20210417203000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210417203000 -0400" stop="20210417204500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">TV Nacional Chile</title>
+  </programme>
+  <programme start="20210417204500 -0400" stop="20210417223000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210417223000 -0400" stop="20210417223500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210417223500 -0400" stop="20210418000000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Nuestro Cine</title>
+  </programme>
+  <programme start="20210418000000 -0400" stop="20210418030000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">El Día Menos Pensado</title>
+  </programme>
+  <programme start="20210418030000 -0400" stop="20210418031500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210418031500 -0400" stop="20210418070000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210418070000 -0400" stop="20210418073000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20210418073000 -0400" stop="20210418083000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Cumbres del Mundo</title>
+  </programme>
+  <programme start="20210418083000 -0400" stop="20210418093000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Cual es tu huella</title>
+  </programme>
+  <programme start="20210418093000 -0400" stop="20210418130000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">24 Horas</title>
   </programme>
   <programme start="20210418130000 -0400" stop="20210418150000 -0400" channel="CL | TVN *FHD | op2">
-    <title lang="es">24 Tarde</title>
+    <title lang="es">24 horas tarde</title>
   </programme>
-  <programme start="20210418150000 -0400" stop="20210418173000 -0400" channel="CL | TVN *FHD | op2">
-    <title lang="es">Lo mejor de Fuerza de mujer</title>
+  <programme start="20210418150000 -0400" stop="20210418164500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Zoom Grandes momentos del deporte</title>
   </programme>
-  <programme start="20210418173000 -0400" stop="20210418200000 -0400" channel="CL | TVN *FHD | op2">
-    <title lang="es">Lo mejor de Romané</title>
+  <programme start="20210418164500 -0400" stop="20210418173000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Chile conectado 2020</title>
   </programme>
-  <programme start="20210418200000 -0400" stop="20210418203000 -0400" channel="CL | TVN *FHD | op2">
-    <title lang="es">TV Nacional Chile</title>
+  <programme start="20210418173000 -0400" stop="20210418183000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">La Odisea</title>
   </programme>
-  <programme start="20210418203000 -0400" stop="20210418204500 -0400" channel="CL | TVN *FHD | op2">
-    <title lang="es">TV Nacional Chile</title>
+  <programme start="20210418183000 -0400" stop="20210418193000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Sueños Latinoamericanos</title>
   </programme>
-  <programme start="20210418204500 -0400" stop="20210418223000 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210418193000 -0400" stop="20210418200000 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20210418223000 -0400" stop="20210418223500 -0400" channel="CL | TVN *FHD | op2">
+  <programme start="20210418223500 -0400" stop="20210419000000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Estado Nacional</title>
+  </programme>
+  <programme start="20210419000000 -0400" stop="20210419020000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Mea Culpa</title>
+  </programme>
+  <programme start="20210419020000 -0400" stop="20210419021500 -0400" channel="CL | TVN *FHD | op2">
     <title lang="es">TV tiempo</title>
   </programme>
-  <programme start="20210418223500 -0400" stop="20210419000000 -0400" channel="CL | TVN *FHD | op2">
-    <title lang="es">Nuestro Cine</title>
+  <programme start="20210419021500 -0400" stop="20210419060000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210419060000 -0400" stop="20210419063000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210419130000 -0400" stop="20210419152500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210419195000 -0400" stop="20210419204500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20210419204500 -0400" stop="20210419223500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210419224000 -0400" stop="20210420000000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Fuerza de mujer</title>
+  </programme>
+  <programme start="20210420000000 -0400" stop="20210420010000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Dr. House</title>
+  </programme>
+  <programme start="20210420010000 -0400" stop="20210420013000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Medianoche</title>
+  </programme>
+  <programme start="20210420013000 -0400" stop="20210420014500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">TV tiempo</title>
+  </programme>
+  <programme start="20210420014500 -0400" stop="20210420060000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20210420060000 -0400" stop="20210420063000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210420063000 -0400" stop="20210420080000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">24 AM</title>
+  </programme>
+  <programme start="20210420080000 -0400" stop="20210420130000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Buenos Días a Todos</title>
+  </programme>
+  <programme start="20210420130000 -0400" stop="20210420152500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">24 Tarde</title>
+  </programme>
+  <programme start="20210420152500 -0400" stop="20210420163000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Circo de las Montini</title>
+  </programme>
+  <programme start="20210420163000 -0400" stop="20210420174000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Romané</title>
+  </programme>
+  <programme start="20210420174000 -0400" stop="20210420191000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+  </programme>
+  <programme start="20210420191000 -0400" stop="20210420195000 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Noticias 24</title>
+  </programme>
+  <programme start="20210420195000 -0400" stop="20210420204500 -0400" channel="CL | TVN *FHD | op2">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20210416013900 -0400" stop="20210416032300 -0400" channel="TNT *HD">
+    <title lang="es">15:17 Tren a París</title>
+  </programme>
+  <programme start="20210416032500 -0400" stop="20210416050300 -0400" channel="TNT *HD">
+    <title lang="es">Buenos Vecinos</title>
+  </programme>
+  <programme start="20210416050300 -0400" stop="20210416054100 -0400" channel="TNT *HD">
+    <title lang="es">Hollywood One On One 2021</title>
+  </programme>
+  <programme start="20210416054100 -0400" stop="20210416055500 -0400" channel="TNT *HD">
+    <title lang="es">Fillers bloques HBO</title>
+  </programme>
+  <programme start="20210416055500 -0400" stop="20210416060000 -0400" channel="TNT *HD">
+    <title lang="es">Fillers individuales HBO</title>
+  </programme>
+  <programme start="20210416060000 -0400" stop="20210416080200 -0400" channel="TNT *HD">
+    <title lang="es">El lado luminoso de la vida</title>
+  </programme>
+  <programme start="20210416080200 -0400" stop="20210416100700 -0400" channel="TNT *HD">
+    <title lang="es">Locos de ira</title>
+  </programme>
+  <programme start="20210416100700 -0400" stop="20210416105800 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210416105800 -0400" stop="20210416114700 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210416114700 -0400" stop="20210416123400 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210416123400 -0400" stop="20210416132500 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210416132500 -0400" stop="20210416152400 -0400" channel="TNT *HD">
+    <title lang="es">Escalofríos</title>
+  </programme>
+  <programme start="20210416152400 -0400" stop="20210416171900 -0400" channel="TNT *HD">
+    <title lang="es">Chiquito pero peligroso</title>
+  </programme>
+  <programme start="20210416171900 -0400" stop="20210416191200 -0400" channel="TNT *HD">
+    <title lang="es">Difícil de matar</title>
+  </programme>
+  <programme start="20210416191200 -0400" stop="20210416220000 -0400" channel="TNT *HD">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20210416220000 -0400" stop="20210416235800 -0400" channel="TNT *HD">
+    <title lang="es">15:17 Tren a París</title>
+  </programme>
+  <programme start="20210416235800 -0400" stop="20210417020100 -0400" channel="TNT *HD">
+    <title lang="es">Broken City</title>
+  </programme>
+  <programme start="20210417235800 -0400" stop="20210418020100 -0400" channel="TNT *HD">
+    <title lang="es">Broken City</title>
+  </programme>
+  <programme start="20210418020100 -0400" stop="20210418034200 -0400" channel="TNT *HD">
+    <title lang="es">Buenos Vecinos</title>
+  </programme>
+  <programme start="20210418034200 -0400" stop="20210418053000 -0400" channel="TNT *HD">
+    <title lang="es">Misión Rockstar</title>
+  </programme>
+  <programme start="20210418053000 -0400" stop="20210418060000 -0400" channel="TNT *HD">
+    <title lang="es">Cacería de brujas</title>
+  </programme>
+  <programme start="20210418060000 -0400" stop="20210418063900 -0400" channel="TNT *HD">
+    <title lang="es">Linterna verde</title>
+  </programme>
+  <programme start="20210418063900 -0400" stop="20210418084200 -0400" channel="TNT *HD">
+    <title lang="es">Locos de ira</title>
+  </programme>
+  <programme start="20210418084200 -0400" stop="20210418104800 -0400" channel="TNT *HD">
+    <title lang="es">Escalofríos</title>
+  </programme>
+  <programme start="20210418104800 -0400" stop="20210418125900 -0400" channel="TNT *HD">
+    <title lang="es">La Batalla del Año</title>
+  </programme>
+  <programme start="20210418125900 -0400" stop="20210418145900 -0400" channel="TNT *HD">
+    <title lang="es">Chiquito pero peligroso</title>
+  </programme>
+  <programme start="20210418145900 -0400" stop="20210418174800 -0400" channel="TNT *HD">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20210418174800 -0400" stop="20210418195200 -0400" channel="TNT *HD">
+    <title lang="es">¿Qué pasó ayer</title>
+  </programme>
+  <programme start="20210418195200 -0400" stop="20210418220000 -0400" channel="TNT *HD">
+    <title lang="es">¿Qué pasó ayer? - Parte II</title>
+  </programme>
+  <programme start="20210418220000 -0400" stop="20210419000400 -0400" channel="TNT *HD">
+    <title lang="es">¿Qué Pasó Ayer? Parte III</title>
+  </programme>
+  <programme start="20210419000400 -0400" stop="20210419014000 -0400" channel="TNT *HD">
+    <title lang="es">Furia en dos ruedas</title>
+  </programme>
+  <programme start="20210419014000 -0400" stop="20210419033200 -0400" channel="TNT *HD">
+    <title lang="es">Misión Rockstar</title>
+  </programme>
+  <programme start="20210419033200 -0400" stop="20210419052000 -0400" channel="TNT *HD">
+    <title lang="es">300: El Nacimiento de un Imperio</title>
+  </programme>
+  <programme start="20210419052000 -0400" stop="20210419060000 -0400" channel="TNT *HD">
+    <title lang="es">Despedida de soltero</title>
+  </programme>
+  <programme start="20210419060000 -0400" stop="20210419070200 -0400" channel="TNT *HD">
+    <title lang="es">Año nuevo</title>
+  </programme>
+  <programme start="20210419070200 -0400" stop="20210419090800 -0400" channel="TNT *HD">
+    <title lang="es">La Batalla del Año</title>
+  </programme>
+  <programme start="20210419090800 -0400" stop="20210419112700 -0400" channel="TNT *HD">
+    <title lang="es">Los Goonies</title>
+  </programme>
+  <programme start="20210419112700 -0400" stop="20210419130400 -0400" channel="TNT *HD">
+    <title lang="es">Furia en dos ruedas</title>
+  </programme>
+  <programme start="20210419130400 -0400" stop="20210419150600 -0400" channel="TNT *HD">
+    <title lang="es">¿Qué pasó ayer</title>
+  </programme>
+  <programme start="20210419150600 -0400" stop="20210419171200 -0400" channel="TNT *HD">
+    <title lang="es">¿Qué pasó ayer? - Parte II</title>
+  </programme>
+  <programme start="20210419171200 -0400" stop="20210419191900 -0400" channel="TNT *HD">
+    <title lang="es">¿Qué Pasó Ayer? Parte III</title>
+  </programme>
+  <programme start="20210419191900 -0400" stop="20210419220000 -0400" channel="TNT *HD">
+    <title lang="es">Titanes del Pacífico</title>
+  </programme>
+  <programme start="20210419220000 -0400" stop="20210420002500 -0400" channel="TNT *HD">
+    <title lang="es">La Llegada (2016)</title>
+  </programme>
+  <programme start="20210420220000 -0400" stop="20210421002500 -0400" channel="TNT *HD">
+    <title lang="es">La Llegada (2016)</title>
+  </programme>
+  <programme start="20210421002500 -0400" stop="20210421022300 -0400" channel="TNT *HD">
+    <title lang="es">300: El Nacimiento de un Imperio</title>
+  </programme>
+  <programme start="20210421022300 -0400" stop="20210421044700 -0400" channel="TNT *HD">
+    <title lang="es">Manchester Junto al Mar</title>
+  </programme>
+  <programme start="20210421044700 -0400" stop="20210421060000 -0400" channel="TNT *HD">
+    <title lang="es">Exorcista El Comienzo</title>
+  </programme>
+  <programme start="20210421060000 -0400" stop="20210421062600 -0400" channel="TNT *HD">
+    <title lang="es">Asesinos con estilo</title>
+  </programme>
+  <programme start="20210421062600 -0400" stop="20210421083600 -0400" channel="TNT *HD">
+    <title lang="es">El lado luminoso de la vida</title>
+  </programme>
+  <programme start="20210421083600 -0400" stop="20210421111300 -0400" channel="TNT *HD">
+    <title lang="es">Diamante de sangre</title>
+  </programme>
+  <programme start="20210421111300 -0400" stop="20210421120300 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210421120300 -0400" stop="20210421125400 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210421125400 -0400" stop="20210421134200 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210421134200 -0400" stop="20210421143200 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210421143200 -0400" stop="20210421170300 -0400" channel="TNT *HD">
+    <title lang="es">Titanes del Pacífico</title>
+  </programme>
+  <programme start="20210421170300 -0400" stop="20210421192700 -0400" channel="TNT *HD">
+    <title lang="es">La Llegada (2016)</title>
+  </programme>
+  <programme start="20210421192700 -0400" stop="20210421220000 -0400" channel="TNT *HD">
+    <title lang="es">Van Helsing: El Cazador de Monstruos</title>
+  </programme>
+  <programme start="20210421220000 -0400" stop="20210422005100 -0400" channel="TNT *HD">
+    <title lang="es">Manchester Junto al Mar</title>
+  </programme>
+  <programme start="20210422005100 -0400" stop="20210422031300 -0400" channel="TNT *HD">
+    <title lang="es">En primera plana</title>
+  </programme>
+  <programme start="20210422031300 -0400" stop="20210422051300 -0400" channel="TNT *HD">
+    <title lang="es">Amigos de armas</title>
+  </programme>
+  <programme start="20210422051300 -0400" stop="20210422060000 -0400" channel="TNT *HD">
+    <title lang="es">El Abogado del diablo</title>
+  </programme>
+  <programme start="20210422060000 -0400" stop="20210422062600 -0400" channel="TNT *HD">
+    <title lang="es">Diamante de sangre</title>
+  </programme>
+  <programme start="20210422062600 -0400" stop="20210422085400 -0400" channel="TNT *HD">
+    <title lang="es">Foxcatcher</title>
+  </programme>
+  <programme start="20210422085400 -0400" stop="20210422113600 -0400" channel="TNT *HD">
+    <title lang="es">El Sorprendente Hombre Araña 2: La Amenaza de Electro</title>
+  </programme>
+  <programme start="20210422113600 -0400" stop="20210422122800 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210422122800 -0400" stop="20210422131700 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210422131700 -0400" stop="20210422140500 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210422140500 -0400" stop="20210422145600 -0400" channel="TNT *HD">
+    <title lang="es">The Mentalist</title>
+  </programme>
+  <programme start="20210422145600 -0400" stop="20210422165800 -0400" channel="TNT *HD">
+    <title lang="es">Fuga de Pretoria</title>
+  </programme>
+  <programme start="20210422165800 -0400" stop="20210422192900 -0400" channel="TNT *HD">
+    <title lang="es">Van Helsing: El Cazador de Monstruos</title>
+  </programme>
+  <programme start="20210422192900 -0400" stop="20210422220000 -0400" channel="TNT *HD">
+    <title lang="es">Pasante de moda</title>
   </programme>
 </tv>
