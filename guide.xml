@@ -4,6 +4,10 @@
     <display-name lang="es">CL | MEGA *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="CL | CANAL 13 *FHD | op2">
+    <display-name lang="es">CL | CANAL 13 *FHD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210416010000 -0400" stop="20210416054500 -0400" channel="CL | MEGA *FHD">
     <title lang="es">Cierre de estación</title>
   </programme>
@@ -51,5 +55,155 @@
   </programme>
   <programme start="20210416223000 -0400" stop="20210417001500 -0400" channel="CL | MEGA *FHD">
     <title lang="es">Got Talent Chile</title>
+  </programme>
+  <programme start="20210417001500 -0400" stop="20210417013000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">¿Quién Quiere Ser Millonario</title>
+  </programme>
+  <programme start="20210417013000 -0400" stop="20210417020000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Mega</title>
+  </programme>
+  <programme start="20210417020000 -0400" stop="20210417054500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210417054500 -0400" stop="20210417061500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Mega</title>
+  </programme>
+  <programme start="20210417061500 -0400" stop="20210417064500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Mega</title>
+  </programme>
+  <programme start="20210417064500 -0400" stop="20210417070000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Mega</title>
+  </programme>
+  <programme start="20210417070000 -0400" stop="20210417080000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">A orillas del río</title>
+  </programme>
+  <programme start="20210417080000 -0400" stop="20210417090000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Bicitantes</title>
+  </programme>
+  <programme start="20210417090000 -0400" stop="20210417130000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Especial de Prensa</title>
+  </programme>
+  <programme start="20210417130000 -0400" stop="20210417150000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210417150000 -0400" stop="20210417160000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Plan V</title>
+  </programme>
+  <programme start="20210417160000 -0400" stop="20210417183000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Lo mejor de Verdades ocultas</title>
+  </programme>
+  <programme start="20210417183000 -0400" stop="20210417193000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20210417193000 -0400" stop="20210417203000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20210417203000 -0400" stop="20210417221000 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210417221000 -0400" stop="20210417221500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210417221500 -0400" stop="20210418001500 -0400" channel="CL | MEGA *FHD">
+    <title lang="es">Mi Barrio</title>
+  </programme>
+  <programme start="20210416001500 -0400" stop="20210416011500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">T13 Noche</title>
+  </programme>
+  <programme start="20210416011500 -0400" stop="20210416021500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Bones</title>
+  </programme>
+  <programme start="20210416021500 -0400" stop="20210416060000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210416060000 -0400" stop="20210416063000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">3x3</title>
+  </programme>
+  <programme start="20210416063000 -0400" stop="20210416080000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210416080000 -0400" stop="20210416120000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Bienvenidos, Cada Uno Cuenta</title>
+  </programme>
+  <programme start="20210416120000 -0400" stop="20210416130000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Juego contra Fuego</title>
+  </programme>
+  <programme start="20210416130000 -0400" stop="20210416144000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210416144000 -0400" stop="20210416144500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210416144500 -0400" stop="20210416155500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Machos</title>
+  </programme>
+  <programme start="20210416155500 -0400" stop="20210416173500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20210416173500 -0400" stop="20210416200000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210416200000 -0400" stop="20210416210000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">El Sultan</title>
+  </programme>
+  <programme start="20210416210000 -0400" stop="20210416223000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210416223000 -0400" stop="20210416223500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210416223500 -0400" stop="20210416224000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20210416224000 -0400" stop="20210416224500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210416224500 -0400" stop="20210417010000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Grandes eventos Mujeres al ataque</title>
+  </programme>
+  <programme start="20210417010000 -0400" stop="20210417013000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">9-1-1: Lone Star</title>
+  </programme>
+  <programme start="20210417013000 -0400" stop="20210417023000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210417023000 -0400" stop="20210417070000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Cierre de estación</title>
+  </programme>
+  <programme start="20210417070000 -0400" stop="20210417084500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Plato Unico</title>
+  </programme>
+  <programme start="20210417084500 -0400" stop="20210417130000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Sin Despertador</title>
+  </programme>
+  <programme start="20210417130000 -0400" stop="20210417150000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210417150000 -0400" stop="20210417162000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20210417162000 -0400" stop="20210417173500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Cocina sin Fronteras</title>
+  </programme>
+  <programme start="20210417173500 -0400" stop="20210417183000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Plato Unico</title>
+  </programme>
+  <programme start="20210417183000 -0400" stop="20210417194500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Tiempos de barrio</title>
+  </programme>
+  <programme start="20210417194500 -0400" stop="20210417210000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210417210000 -0400" stop="20210417221000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Especial de Teletrece</title>
+  </programme>
+  <programme start="20210417221000 -0400" stop="20210417221500 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210417221500 -0400" stop="20210417233000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210417233000 -0400" stop="20210418004000 -0400" channel="CL | CANAL 13 *FHD | op2">
+    <title lang="es">Crónicas de la Patagonia</title>
   </programme>
 </tv>
